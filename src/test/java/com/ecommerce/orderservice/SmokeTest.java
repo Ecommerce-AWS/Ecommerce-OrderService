@@ -1,4 +1,4 @@
-﻿package com.ecommerce.orderservice;
+package com.ecommerce.orderservice;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 

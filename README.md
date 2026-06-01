@@ -1,4 +1,4 @@
-﻿# Ecommerce-OrderService
+# Ecommerce-OrderService
 
 Order lifecycle, state machine, saga pattern, Kafka
 
